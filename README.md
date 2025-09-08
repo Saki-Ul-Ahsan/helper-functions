@@ -6,7 +6,7 @@ A collection of reusable TypeScript helper functions for common tasks like file 
 
 - **API responses** (success/error formatters)
 - **Date/Time utilities** and more!
-- **Audit Log interceptor
+- **Audit Log interceptor**
 - **Number to Words method**
 
 ## 🚀 Getting Started
